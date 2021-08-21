@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Appteq</string>
+
+    <string name="facebook_app_id">424682442271761</string>
+    <string name="fb_login_protocol_scheme">fb424682442271761</string>
+</resources>
